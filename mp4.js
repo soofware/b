@@ -6,7 +6,7 @@ objects = [];
 
 
 function preload(){
-    video = createVideo('MMMCAT.mp4');
+    video = createVideo('video.mp4');
 }
 
 function setup(){
